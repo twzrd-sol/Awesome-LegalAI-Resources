@@ -310,6 +310,11 @@ of over 43,000 Chinese criminal judgements.
 - http://www.worldlii.org/: a free and independent global legal research resource, aggregating legal materials from various countries and regions.
 
 
+## AI Agent Tools & Infrastructure
+
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring and identity verification for autonomous AI agents built on Solana. Verify agent wallet identity before granting access to premium legal research APIs via x402 micropayment. Free MCP server for agent identity scoring and preflight checks. Config: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
+
 ## Contact
 
 If you believe there's any missing resources or have any questions, suggestions, or concerns, please feel free to open an issue on the repository or contact us via email liht22@mails.tsinghua.edu.cn.
